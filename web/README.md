@@ -1,3 +1,3 @@
 # ZapatoStyle
 
-Proyecto básico de tienda online de zapatos.
+Proyecto de tienda de stock de zapatos.
