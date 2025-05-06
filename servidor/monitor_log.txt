@@ -1,7 +1,0 @@
-2025-05-06 22:00:03	Estado del sistema:
--------------------
-CPU:          20%
-RAM:          49%
-Disco C::     33%
-Conectividad: OK
-Fecha:        2025-05-06 22:00:03
