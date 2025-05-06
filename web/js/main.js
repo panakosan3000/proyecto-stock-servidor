@@ -214,7 +214,7 @@ function displayProducts(products) {
        if (stockElement) {
     if (parseInt(product.stock) === 0) {
         stockElement.textContent = 'Sin stock';
-        stockElement.style.color = 'red';
+        stockElement.style.color = '#b50000';
         stockElement.style.fontWeight = 'bold';
     } else {
         stockElement.textContent = `Stock: ${product.stock}`;

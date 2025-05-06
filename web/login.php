@@ -96,12 +96,20 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     </ul>
                 </div>
                 <div class="footer-social">
-                    <h4>Síguenos</h4>
+                      <h4>Síguenos</h4>
                     <div class="social-icons">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                        <a href="https://es-es.facebook.com/" aria-label="Facebook">
+						  <i class="fab fa-facebook-f" aria-hidden="true"></i>
+						</a>
+						<a href="https://www.instagram.com/" aria-label="Instagram">
+						  <i class="fab fa-instagram" aria-hidden="true"></i>
+						</a>
+						<a href="https://x.com/" aria-label="Twitter">
+						  <i class="fab fa-twitter" aria-hidden="true"></i>
+						</a>
+						<a href="https://app.slack.com/client/T08LQQ6AADV/C08M3ABM3HB" aria-label="Pinterest">
+						  <i class="fab fa-pinterest" aria-hidden="true"></i>
+						</a>
                     </div>
                 </div>
             </div>
