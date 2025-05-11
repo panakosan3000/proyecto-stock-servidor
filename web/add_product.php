@@ -71,6 +71,11 @@ if (!isset($_SESSION['login'])) {
                             <small class="error-message" id="sizeError"></small>
                         </div>
                     </div>
+			 <div class="form-group">
+				<label for="stock">Stock disponible: <span class="required">*</span></label>
+				<input type="number" id="stock" name="stock" min="0" required>
+				<small class="error-message" id="stockError"></small>
+			</div>
                     
                     <div class="form-group">
                         <label for="price">Precio (€): <span class="required">*</span></label>
